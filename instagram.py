@@ -2,7 +2,6 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium import *
 from info import username, password
-from info import username, password
 import time
 import requests
 
